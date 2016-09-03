@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\anProject\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a1e94a85e18d418ed922e0ef94bfc72948443f03">
+        <dex dex="G:\anProject\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_72616e4f1056f0783c63d3feba3581b72c600b87\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.zxing\android-core\3.2.1\c1de4bba95fac060cc96a3af39ef6ffd17e18157\android-core-3.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c1de4bba95fac060cc96a3af39ef6ffd17e18157">
+        <dex dex="G:\anProject\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-core-3.2.1_9585550f16fbf2e3707efe28ad65a5f1156c36f9\classes.dex" />
+    </item>
+    <item
+        jar="G:\anProject\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cdec64a4631c10de4bc9ffbdb384eb91d054e7b5">
+        <dex dex="G:\anProject\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_614be19dc5bccbc767077d897e9ed8394a293f6d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="G:\anProject\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_3f96f72d8bc40481fc852122e0314b3485c288eb\classes.dex" />
+    </item>
+
+</items>

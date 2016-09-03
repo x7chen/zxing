@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\anProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "G:\\anProject\\android\\app\\src\\main\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "G:\\anProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "G:\\anProject\\android\\app\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "G:\\anProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "G:\\anProject\\android\\app\\src\\main\\res\\menu\\encode.xml"
+    }
+]
